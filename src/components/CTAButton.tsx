@@ -13,7 +13,7 @@ const CTAButton = () => {
           <Button 
             size="lg" 
             className="text-2xl px-16 py-8 bg-gradient-to-r from-french-rouge via-neon-pink to-electric-blue hover:scale-110 hover:rotate-1 transition-all duration-300 shadow-2xl text-french-blanc font-black rounded-3xl border-4 border-gold hover:border-mint animate-pulse-glow relative overflow-hidden group"
-            onClick={() => window.open('#', '_blank')}
+            onClick={() => window.open('https://pump.fun/coin/88SkRWd9djwC8nDhzTQeMmR1ju2C9mU5BP5Vwdyng8Gw', '_blank')}
           >
             <span className="relative z-10">🚀 Buy on Pump.fun 🚀</span>
             <div className="absolute inset-0 bg-gradient-to-r from-gold to-mint opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
