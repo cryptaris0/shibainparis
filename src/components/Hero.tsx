@@ -30,7 +30,7 @@ const Hero = () => {
               ✨ Contract Address ✨
             </p>
             <p className="text-2xl md:text-3xl font-mono font-bold text-dark-text break-all bg-gradient-to-r from-gold to-sunset-orange bg-clip-text text-transparent">
-              [INSERT TOKEN ADDRESS HERE]
+              
             </p>
           </div>
         </div>
